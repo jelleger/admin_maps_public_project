@@ -8,3 +8,7 @@ https://gadm.org/download_country.html -- to get the map info
 https://findthatpostcode.uk/tools/merge-geojson -- to merge the various maps
 
 https://geojson.io/#map=2/0/20 -- to create the geojson file
+
+Handy website to locate Zip codes connected to States (admin 1 regions)
+
+https://download.geonames.org/export/zip/
